@@ -1,0 +1,14 @@
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/util/BigDecimalConverter.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/LetscodebyadaApplication.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Controller/UsuarioController.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Config/InternacionalizacaoConfig.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Exception/UsuarioCadastradoException.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Config/WebConfig.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Config/AuthorizationServerConfig.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Config/ResourceServerConfig.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Config/SecurityConfig.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Exception/ApiErrors.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Model/UsuarioModel.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/util/StatusEnum.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Repository/UsuarioRepository.java
+/home/inaiara/Documentos/Deva/Modulo Git/versionamento/ada-b3-deva-backend/src/main/java/br/com/letscodebyada/Service/UsuarioService.java
